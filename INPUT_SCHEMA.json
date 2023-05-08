@@ -18,9 +18,9 @@
       "title": "Max items",
       "type": "integer",
       "minimum": 1,
-      "maximum": 100,
-      "description": "Limit of universities you want to get in final dataset. Max value is 100.",
-      "prefill": 10
+      "maximum": 200,
+      "description": "Limit of universities you want to get in final dataset. Max value is 200.",
+      "prefill": 100
     },
     "year": {
       "title": "Year",
